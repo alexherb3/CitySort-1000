@@ -5,8 +5,8 @@ My application is titled CitySort 1000, which takes the top 1000 most populated 
 # Application on Startup
 ![image](https://github.com/user-attachments/assets/ad022049-ba14-4b92-a6ab-04d4ea823bc4)
 
-# When text is inputted into search field
+# When Text is Inputted Into Search Field
 ![image](https://github.com/user-attachments/assets/04b5c463-1d04-47ed-b390-c6d2981a51f5)
 
-# When different sort option is chosen
+# When Different Sort Option is Chosen
 ![image](https://github.com/user-attachments/assets/efe81e9a-5faf-4ab5-844f-38e683039c30)
